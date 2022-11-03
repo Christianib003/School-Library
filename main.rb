@@ -33,3 +33,5 @@ def option(input)
     puts "I don't understand..."
   end
 end
+
+main
